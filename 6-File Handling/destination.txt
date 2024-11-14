@@ -1,0 +1,5 @@
+Hello World!
+This is a new lineAppend operation taking place
+First line 
+Second line 
+Third line
